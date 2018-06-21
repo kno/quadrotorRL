@@ -1,0 +1,21 @@
+# Algortihm Parameters
+alpha: 0.1
+gamma: 0.8
+epsilon: 0.9
+epsilon_discount: 0.999 # 1098 eps to reach 0.1
+nepisodes: 1000
+nsteps: 500
+debug: True
+save: '~/model'
+save_episodes: 1
+load: False
+
+# Environment Parameters
+desired_pose:
+    x: 10
+    y: 1.0
+    z: 1.5
+max_altitude: 5.0   # in meters
+max_incl: 0.7       # in rads
+speed_value: 1.0    # in m/s
+running_step: 0.3   # in seconds
