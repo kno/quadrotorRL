@@ -177,7 +177,7 @@ topic-tools==1.12.13
 unique-id==1.0.5
 urdfdom-py==0.3.3
 urllib3==1.23
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 wiimote==1.11.0
 xacro==1.11.3
 yocs-ar-pair-approach==0.8.2
