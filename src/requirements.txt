@@ -84,7 +84,7 @@ pyparsing==2.2.0
 pytest==3.6.1
 python-dateutil==2.7.3
 python-qt-binding==0.3.3
-PyYAML==3.12
+PyYAML==5.4
 qt-dotgraph==0.3.8
 qt-gui==0.3.8
 qt-gui-app==0.3.8
