@@ -161,7 +161,7 @@ smclib==1.8.1
 sound-play==0.3.2
 srdfdom==0.4.2
 tensorboard==1.8.0
-tensorflow==1.8.0
+tensorflow==2.5.0
 tensorflow-ros==0.0.4
 tensorflow-ros-rqt==0.0.4
 tensorforce==0.4.2
