@@ -67,7 +67,7 @@ moveit-python==0.2.17
 moveit-ros-planning-interface==0.9.11
 moveit-ros-visualization==0.9.11
 nmea-navsat-driver==0.5.0
-numpy==1.14.5
+numpy==1.22.0
 object-recognition-capture==0.3.2
 object-recognition-core==0.6.7
 object-recognition-ros==0.3.7
